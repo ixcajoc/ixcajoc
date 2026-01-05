@@ -36,35 +36,12 @@
 <div>
   <p align="center">
     <a href="https://github.com/ixcajoc">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ixcajoc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ixcajoc&layout=compact&langs_count=8&theme=algolia"/>
     </a>
   </p>
 </div>
 
-
-<h2>GitHub :octocat:</h2>
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <!-- Streak stats -->
-  <div style="flex: 1 1 60%; min-width: 300px;" align="center">
-    <img 
-      title="🔥 Get streak stats for your profile at git.io/streak-stats"
-      alt="GitHub Streak"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" 
-    />
-  </div>
-
-  <!-- Top languages -->
-  <div style="flex: 1 1 40%; min-width: 250px;" align="center">
-    <img 
-      alt="Top Languages"
-      src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"
-    />
-  </div>
-
-</div>
 
 
 
