@@ -3,7 +3,7 @@
 <p align="left">
 <a href="www.linkedin.com/in/denis-ixcajoc" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
   <a href="https://www.youtube.com/@denis-ixcajoc" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-<a href = "denisixcajoc2001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href = "mailto:denisixcajoc2001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 
 <h2>Sobre mí 👨‍💻</h2>
@@ -17,7 +17,7 @@
 
 📈 Comprometido con el aprendizaje continuo, la mejora técnica y la creación de soluciones con impacto real.
 
-🔐 Además de un interés constante en <strong>seguridad informática, análisis de datos, y mejora de procesos</strong>.
+🔐 Interés constante en <strong>seguridad informática, análisis de datos, y mejora de procesos</strong>.
 
 📫 Contacto: <strong>denisixcajoc2001@gmail.com</strong>
 </p>
@@ -27,7 +27,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=angular,css,html,sass,bootstrap,tailwind,js,ts,nodejs,py,java,php,express,cpp,mysql,postgres,flutter,git,github,netlify,postman,vscode,bash,linux,ai,ps&perline=12" />
   </a>
 </p>
 <br>
